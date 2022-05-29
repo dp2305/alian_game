@@ -12,7 +12,7 @@ def run_game():
      if event.type == pygame.QUIT:
        sys.exit()
 
- 
+ #hello
     pygame.display.set_caption("Alien Invasion")
  # Set the background color.
     bg_color = (900, 900, 900)
